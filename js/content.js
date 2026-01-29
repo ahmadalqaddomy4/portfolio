@@ -143,13 +143,13 @@ const PORTFOLIO_CONTENT = {
         "Communication",
         "Time Management",
         "Leadership",
-        "Marketing and Sales"
+        "Pitching"
       ],
       "hard": [
         "CapCut",
         "Canva",
         "Design",
-        "Photography",
+        "Marketing and Sales",
         "Videography",
         "Content Creation"
       ]
@@ -190,7 +190,8 @@ const PORTFOLIO_CONTENT = {
         { "url": "https://www.instagram.com/reel/DRZuDkDDUDo/" },
         { "url": "https://www.instagram.com/reel/DKZoKEKoGmf/" },
         { "url": "https://www.instagram.com/reel/DGvk3lIoR2r/" },
-        { "url": "https://www.instagram.com/reel/DRDC-TkDcf6/" }
+        { "url": "https://www.instagram.com/reel/DRDC-TkDcf6/" },
+        { "url": "https://www.instagram.com/reel/DOGcBjJCL4L/" }
       ]
     }
   }
